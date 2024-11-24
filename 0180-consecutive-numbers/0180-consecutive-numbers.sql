@@ -1,5 +1,13 @@
 /* Write your T-SQL query statement below */
-
-
-select distinct a.num as ConsecutiveNums from Logs a, Logs b, Logs c
-where a.num = b.num and b.num = c.num and a.id = b.id+1 and b.id = c.id+1
+SELECT DISTINCT
+   l1.num as ConsecutiveNums
+FROM 
+   Logs l1, Logs l2,Logs l3
+WHERE 
+   l1.id = l2.id+1
+   AND
+   l2.id = l3.id+1
+   AND
+   l1.num = l2.num
+   AND
+   l2.num = l3.num;
