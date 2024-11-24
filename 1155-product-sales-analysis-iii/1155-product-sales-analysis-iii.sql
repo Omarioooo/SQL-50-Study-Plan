@@ -7,7 +7,9 @@ SELECT
 FROM
     Sales s
 INNER JOIN
-    Product p ON s.product_id = p.product_id
+    Product p
+    ON
+    s.product_id = p.product_id
 INNER JOIN
     (
         SELECT
@@ -17,5 +19,6 @@ INNER JOIN
             Sales
         GROUP BY
             product_id
-    ) s2 ON s.product_id = s2.product_id
-          AND s.year = s2.first_year;
+    ) s2 
+    ON  
+    s.product_id = s2.product_id AND s.year = s2.first_year;
