@@ -1,7 +1,9 @@
-# Write your MySQL query statement below
-select if(count(num)>1,null,num) num
-FROM MyNumbers
-GROUP BY num
-ORDER BY num DESC
-LIMIT 1;
-
+/* Write your T-SQL query statement below */
+SELECT
+    MAX(num) AS num
+FROM (
+    SELECT num 
+    FROM MyNumbers
+    GROUP BY num
+    HAVING COUNT(num) = 1
+) AS tbl
