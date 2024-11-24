@@ -1,4 +1,4 @@
-A collection of LeetCode questions to ace the coding interview! - Created using #Omariooo
+A collection of LeetCode questions to ace the coding interview! - Created using # Omariooo
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Database
