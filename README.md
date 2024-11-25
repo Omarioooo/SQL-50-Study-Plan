@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/Omarioooo/SQL-50-Study-Plan/tree/master/0180-consecutive-numbers) |
+| [0196-delete-duplicate-emails](https://github.com/Omarioooo/SQL-50-Study-Plan/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Omarioooo/SQL-50-Study-Plan/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Omarioooo/SQL-50-Study-Plan/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Omarioooo/SQL-50-Study-Plan/tree/master/0577-employee-bonus) |
