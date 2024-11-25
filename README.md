@@ -45,5 +45,6 @@ A collection of LeetCode questions to ace the coding interview!
 | [1942-primary-department-for-each-employee](https://github.com/Omarioooo/SQL-50-Study-Plan/tree/master/1942-primary-department-for-each-employee) |
 | [2057-count-salary-categories](https://github.com/Omarioooo/SQL-50-Study-Plan/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/Omarioooo/SQL-50-Study-Plan/tree/master/2087-confirmation-rate) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/Omarioooo/SQL-50-Study-Plan/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Omarioooo/SQL-50-Study-Plan/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
