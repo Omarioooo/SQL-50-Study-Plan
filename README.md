@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1390-average-selling-price](https://github.com/Omarioooo/SQL-50-Study-Plan/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/Omarioooo/SQL-50-Study-Plan/tree/master/1415-students-and-examinations) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/Omarioooo/SQL-50-Study-Plan/tree/master/1462-list-the-products-ordered-in-a-period) |
+| [1480-movie-rating](https://github.com/Omarioooo/SQL-50-Study-Plan/tree/master/1480-movie-rating) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Omarioooo/SQL-50-Study-Plan/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1625-group-sold-products-by-the-date](https://github.com/Omarioooo/SQL-50-Study-Plan/tree/master/1625-group-sold-products-by-the-date) |
 | [1664-find-users-with-valid-e-mails](https://github.com/Omarioooo/SQL-50-Study-Plan/tree/master/1664-find-users-with-valid-e-mails) |
