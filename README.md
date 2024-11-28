@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1338-queries-quality-and-percentage](https://github.com/Omarioooo/SQL-50-Study-Plan/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/Omarioooo/SQL-50-Study-Plan/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/Omarioooo/SQL-50-Study-Plan/tree/master/1415-students-and-examinations) |
+| [1452-restaurant-growth](https://github.com/Omarioooo/SQL-50-Study-Plan/tree/master/1452-restaurant-growth) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/Omarioooo/SQL-50-Study-Plan/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1480-movie-rating](https://github.com/Omarioooo/SQL-50-Study-Plan/tree/master/1480-movie-rating) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Omarioooo/SQL-50-Study-Plan/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
