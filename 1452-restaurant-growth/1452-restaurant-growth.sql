@@ -26,4 +26,4 @@ SELECT DISTINCT
     amount,
     ROUND(amount / 7.0, 2) AS average_amount   
 FROM cte2
-WHERE count_rows >= 7;
+WHERE count_rows = 7;
