@@ -53,28 +53,4 @@ A collection of LeetCode questions to ace the coding interview by مش عارف 
 | [2087-confirmation-rate](https://github.com/Omarioooo/SQL-50-Study-Plan/tree/master/2087-confirmation-rate) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/Omarioooo/SQL-50-Study-Plan/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Omarioooo/SQL-50-Study-Plan/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
-## Stack
-|  |
-| ------- |
-| [0094-binary-tree-inorder-traversal](https://github.com/Omarioooo/SQL-50-Study-Plan/tree/master/0094-binary-tree-inorder-traversal) |
-| [0144-binary-tree-preorder-traversal](https://github.com/Omarioooo/SQL-50-Study-Plan/tree/master/0144-binary-tree-preorder-traversal) |
-| [0145-binary-tree-postorder-traversal](https://github.com/Omarioooo/SQL-50-Study-Plan/tree/master/0145-binary-tree-postorder-traversal) |
-## Tree
-|  |
-| ------- |
-| [0094-binary-tree-inorder-traversal](https://github.com/Omarioooo/SQL-50-Study-Plan/tree/master/0094-binary-tree-inorder-traversal) |
-| [0144-binary-tree-preorder-traversal](https://github.com/Omarioooo/SQL-50-Study-Plan/tree/master/0144-binary-tree-preorder-traversal) |
-| [0145-binary-tree-postorder-traversal](https://github.com/Omarioooo/SQL-50-Study-Plan/tree/master/0145-binary-tree-postorder-traversal) |
-## Depth-First Search
-|  |
-| ------- |
-| [0094-binary-tree-inorder-traversal](https://github.com/Omarioooo/SQL-50-Study-Plan/tree/master/0094-binary-tree-inorder-traversal) |
-| [0144-binary-tree-preorder-traversal](https://github.com/Omarioooo/SQL-50-Study-Plan/tree/master/0144-binary-tree-preorder-traversal) |
-| [0145-binary-tree-postorder-traversal](https://github.com/Omarioooo/SQL-50-Study-Plan/tree/master/0145-binary-tree-postorder-traversal) |
-## Binary Tree
-|  |
-| ------- |
-| [0094-binary-tree-inorder-traversal](https://github.com/Omarioooo/SQL-50-Study-Plan/tree/master/0094-binary-tree-inorder-traversal) |
-| [0144-binary-tree-preorder-traversal](https://github.com/Omarioooo/SQL-50-Study-Plan/tree/master/0144-binary-tree-preorder-traversal) |
-| [0145-binary-tree-postorder-traversal](https://github.com/Omarioooo/SQL-50-Study-Plan/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
