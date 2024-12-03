@@ -53,4 +53,20 @@ A collection of LeetCode questions to ace the coding interview by مش عارف 
 | [2087-confirmation-rate](https://github.com/Omarioooo/SQL-50-Study-Plan/tree/master/2087-confirmation-rate) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/Omarioooo/SQL-50-Study-Plan/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Omarioooo/SQL-50-Study-Plan/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Omarioooo/SQL-50-Study-Plan/tree/master/0144-binary-tree-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Omarioooo/SQL-50-Study-Plan/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Omarioooo/SQL-50-Study-Plan/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Omarioooo/SQL-50-Study-Plan/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
